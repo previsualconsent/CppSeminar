@@ -1,0 +1,10 @@
+game
+
+*.o
+*.d
+*~
+*.swp
+
+*.root
+*.png
+tmp/
